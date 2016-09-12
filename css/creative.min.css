@@ -13,7 +13,7 @@ panel-body {
 header,header.header-content{position:relative;width:100%;text-align:center}body,html{height:100%;width:100%}
 body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif;webkit-tap-highlight-color:#222}
 .btn,.navbar-default,.navbar-default .navbar-header 
-.navbar-brand,h1,h2,h3,h4,h5,h6{font-family: 'Pacifico', cursive;} p{font-family: font-family: 'Oswald', sans-serif;} hr{border-color:#DD92AB;border-width:3px;max-width:50px}hr
+.navbar-brand,h1,h2,h3,h4,h5,h6{font-family: 'Pacifico' !important, cursive;} p{font-family: font-family: 'Oswald', sans-serif;} hr{border-color:#DD92AB;border-width:3px;max-width:50px}hr
 .light{border-color:#fff}a{transition:all .35s;color:#DD92AB}a:focus,a:hover{color:#eb3812}p{font-size:16px;line-height:1.5;margin-bottom:20px;color: #222; font-weight: 100;}
   .bg-primary{background-color:#222; opacity: 30%;}
   .bg-dark{background-color:#222;color:#fff}
