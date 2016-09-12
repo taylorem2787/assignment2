@@ -29,7 +29,7 @@ body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif;webkit-tap-highl
   .navbar-default .nav>li>a:focus:hover,.navbar-default 
   .nav>li>a:hover{color:#222}
   .navbar-default .nav>li.active>a,.navbar-default 
-  .nav>li.active>a:focus{color:!important;background-color: transparent !important;}
+  .nav>li.active>a:focus{color:!important;background-color: transparent !i;}
   .navbar-default .nav>li.active>a:focus:hover,
   .navbar-default .nav>li.active>a:hover{background-color:transparent}@media (min-width:768px){
   	.navbar-default{background-color:transparent !important;border-color:rgba(255,255,255,.3)}
