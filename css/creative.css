@@ -397,7 +397,7 @@ fieldset[disabled] .btn-primary.active {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #222222;
+  background: 2222222;
 }
 ::selection {
   color: white;
