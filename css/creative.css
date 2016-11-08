@@ -230,8 +230,8 @@ header .header-content .header-content-inner p {
 .portfolio-box {
   position: relative;
   display: block;
-  /*max-width: 500px !important;
-*/  margin: 0 auto;
+  max-width: 500px !important;
+  margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
   color: white;
@@ -420,4 +420,4 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-
+.portfolioImage{width: 200 !important; height: 207 !important;}
